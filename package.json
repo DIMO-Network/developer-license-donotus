@@ -1,0 +1,29 @@
+{
+  "name": "developer-license-donotus",
+  "version": "1.0.0",
+  "description": "Lorem ipsum...",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smatthewenglish/developer-license-donotus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smatthewenglish/developer-license-donotus/issues"
+  },
+  "homepage": "https://github.com/smatthewenglish/developer-license-donotus#readme",
+  "dependencies": {
+    "bignumber.js": "^9.1.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.11.1"
+  }
+}
